@@ -1,6 +1,6 @@
 # Summary
 Hello there!  
-I am **koki0517**(Koki),a senior high school student.  
+I am **koki0517**(Koki),a senior high school student in Japan.  
 I am challenging making robots and their codes for robot events.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koki0517&theme=vue)
@@ -11,4 +11,5 @@ I am challenging making robots and their codes for robot events.
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kikou0517/contributions.svg)](http://qiita.com/kikou0517)
 
 # Activities
+I joined **RoboCupJr**-WRL and placed second in a block event last year.
 I am going to join **WRO**-senior and **RoboCupJr**-WRL this year.
