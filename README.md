@@ -11,5 +11,5 @@ I am challenging making robots and their codes for robot events.
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kikou0517/contributions.svg)](http://qiita.com/kikou0517)
 
 # Activities
-I joined **RoboCupJr**-WRL and placed second in a block event last year.
+I joined **RoboCupJr**-WRL and placed second in a block event last year.  
 I am going to join **WRO**-senior and **RoboCupJr**-WRL this year.
