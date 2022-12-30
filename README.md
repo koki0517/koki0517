@@ -1,7 +1,6 @@
-# Bio
-Hello there!  
-I am **koki0517**(Koki),a senior high school student in Japan.  
-I am challenging making robots and their codes for robot events.
+## Hello there!  I am Koki(koki0517)
+I am a senior high school student in Japan, 
+and challenging making robots and their codes for robot events such as RobocupJunior.
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/kikou0517/posts.svg)](http://qiita.com/kikou0517)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/kikou0517/contributions.svg)](http://qiita.com/kikou0517)
