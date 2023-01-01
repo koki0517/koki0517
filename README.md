@@ -2,8 +2,6 @@
 I am a senior high school student in Japan, 
 and challenging making robots and their codes for robot events such as RobocupJunior.
 
-[![My Qiita posts](https://qiita-badge.apiapi.app/s/kikou0517/posts.svg)](http://qiita.com/kikou0517)
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/kikou0517/contributions.svg)](http://qiita.com/kikou0517)
 ![](https://vistr.dev/badge?repo=koki0517.ThylaThylakoid)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koki0517&theme=vue)
