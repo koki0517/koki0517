@@ -2,6 +2,9 @@
 I am a senior high school student in Japan, 
 and challenging making robots and their codes for robot events such as RobocupJunior.
 
+My old team -> https://github.com/1nmy-42nd-KOMBU  
+Repos of it is private for various reasons. If you need, just contact me. 
+
 ![](https://vistr.dev/badge?repo=koki0517.ThylaThylakoid)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koki0517&theme=vue)
