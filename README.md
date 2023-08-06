@@ -5,12 +5,4 @@ and challenging making robots and their codes for robot events such as RobocupJu
 My old team -> https://github.com/1nmy-42nd-KOMBU  
 Repos of it is private for various reasons. If you need, just contact me. 
 
-![](https://vistr.dev/badge?repo=koki0517.ThylaThylakoid)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koki0517&theme=vue)
-<p align="left">
-  <img alt="github stats" height="175px" src="https://github-readme-stats.vercel.app/api?username=koki0517&count_private=true&show_icons=ture" />
-  <img alt="Top Langs" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koki0517&layout=compact&show_icons=true&count_private=true" />
-</p>
-
-![Metrics](https://metrics.lecoq.io/koki0517?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&achievements.threshold=X&achievements.secrets=true&achievements.display=detailed&achievements.limit=4&config.timezone=Asia%2FTokyo)
+<img width="600" alt="Metrics" src="https://metrics.lecoq.io/koki0517?template=classic&base.indepth=true&base.community=0&base.repositories=0&isocalendar=1&languages=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FTokyo">
