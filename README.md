@@ -2,7 +2,7 @@
 I am a senior high school student in Japan, 
 and challenging making robots and their codes for robot events such as RobocupJunior.
 
-My old team -> https://github.com/1nmy-42nd-KOMBU  
-Repos of it is private for various reasons. If you need, just contact me. 
+My team "[こんぶ畑](https://github.com/KOMBU-Batake)"  
+My old team "[GraGraGrana](https://github.com/1nmy-42nd-KOMBU)"   
 
 ![Metrics](/github-metrics.svg)
