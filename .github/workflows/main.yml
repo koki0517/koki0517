@@ -27,15 +27,21 @@ jobs:
           # Options
           user: koki0517
           template: classic
-          base: header, activity, metadata
-          base_indepth: yes
+          base: header, activity, community, metadata
+          base_hireable: yes
           config_display: large
           config_timezone: Asia/Tokyo
           plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_ignored: stargazer, follower
+          plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
+          plugin_achievements_threshold: B
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
@@ -43,7 +49,8 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_limit: 12
+          plugin_languages_ignored: Jupyter Notebook,TeX, HTML
+          plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
